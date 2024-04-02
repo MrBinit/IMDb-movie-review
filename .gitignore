@@ -1,0 +1,9 @@
+a.ipynb
+model_test.ipynb
+test.ipynb
+app.py
+# Ignore the aclImdb_v1.tar.gz file
+aclImdb_v1.tar.gz
+
+
+aclImdb/
