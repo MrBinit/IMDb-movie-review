@@ -48,3 +48,24 @@
 - **Loss**: 0.1271
 - **Validation Accuracy**: 0.8140
 - **Validation Loss**: 0.5616
+
+## Performance with Batch Normalization and ReLU Activation
+- **Epoch**: 3/3
+- **Accuracy**: 0.9113
+- **Loss**: 0.2317
+- **Validation Accuracy**: 0.8666
+- **Validation Loss**: 0.3472
+
+## Performance with ReLU Activation and He Initialization
+- **Epoch**: 3/3
+- **Accuracy**: 0.9406
+- **Loss**: 0.1615
+- **Validation Accuracy**: 0.8692
+- **Validation Loss**: 0.3750
+
+## Performance with LeakyReLU Activation and He Initialization
+- **Epoch**: 3/3
+- **Accuracy**: 0.9446
+- **Loss**: 0.1476
+- **Validation Accuracy**: 0.8638
+- **Validation Loss**: 0.4199
